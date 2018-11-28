@@ -1,1 +1,8 @@
-first file
+Session 1: general Intorduction
+Session 2: installation and command line
+session 3: intergrataion
+Devops Tools
+Jenkins
+Git 
+Mavin
+CICD
