@@ -5,4 +5,4 @@ Devops Tools
 Jenkins
 Git 
 Mavin
-CICD
+CIContinuous Development
