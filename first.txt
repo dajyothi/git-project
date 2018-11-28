@@ -10,5 +10,9 @@ Devops Tools
 Jenkins
 Git 
 Mavin
+<<<<<<< HEAD
 CICD
+>>>>>>> new_branch
+=======
+CIContinuous Development
 >>>>>>> new_branch
