@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+first file
+editing from Linux
+editing 3rd thime from Linux
+=======
 Session 1: general Intorduction
 Session 2: installation and command line
 session 3: intergrataion
@@ -5,4 +10,10 @@ Devops Tools
 Jenkins
 Git 
 Mavin
+<<<<<<< HEAD
 CICD
+>>>>>>> new_branch
+=======
+CIContinuous Development
+>>>>>>> new_branch
+new date 
